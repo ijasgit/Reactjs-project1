@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    color: #fff;
+    background-color: #2487ce;
+    border: 1px solid #f7f7f7;
+    padding: 16px 52px;
+    border-radius: 4px;
+}
+
+header .pos1 a {
+    color: rgb(36 145 215);
+    font-size: 30px;
+}
+
+header .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 12px;
+
+}

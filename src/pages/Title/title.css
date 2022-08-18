@@ -1,0 +1,24 @@
+.below-header {
+    padding: 80px 12px;
+    text-align: center;
+
+}
+
+.below-header .pos1 {
+
+    color: #124265;
+    line-height: 36px;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: 800;
+
+}
+
+.below-header .pos2 {
+    font-size: 18px;
+    margin: 10px 0px 0px;
+}
+
+.below-header .pos3 {
+    padding-top: 37px;
+}
